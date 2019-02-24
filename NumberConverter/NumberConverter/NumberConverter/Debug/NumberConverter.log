@@ -1,0 +1,4 @@
+﻿  NumberConverter.cpp
+d:\desktop\programming\numberconverter\numberconverter\numberconverter\numberconverter\numberconverter.cpp(59): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\desktop\programming\numberconverter\numberconverter\numberconverter\numberconverter\numberconverter.cpp(76): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  NumberConverter.vcxproj -> D:\Desktop\Programming\NumberConverter\NumberConverter\NumberConverter\Debug\NumberConverter.exe
